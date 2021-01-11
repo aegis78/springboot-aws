@@ -46,6 +46,7 @@ gradle-app.setting
 *.iws
 *.iml
 *.ipr
+*.pb
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
